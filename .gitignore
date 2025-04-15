@@ -1,0 +1,11 @@
+Apollo_CSV_Extracts/
+Resumes/
+*.txt
+*.csv
+*.env
+*.ipynb
+*.html
+__pycache__/
+Gmail_Email_Sender/
+Markdowns/
+Portfolio/
